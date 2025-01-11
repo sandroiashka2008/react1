@@ -1,6 +1,7 @@
 h1{
-  color: red;
-}
-#h2{
-  color: purple;
+    color: red;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    text-shadow: 12px 12px 12px black;
 }
